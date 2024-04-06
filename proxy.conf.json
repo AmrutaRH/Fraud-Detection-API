@@ -1,0 +1,8 @@
+{
+    "/api": {
+        "target": "https://1uwobgnzyc.execute-api.eu-north-1.amazonaws.com/Test/fraud_detect",
+        "secure": true,
+        "changeOrigin": true,
+        "logLevel": "debug"
+    }
+}

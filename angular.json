@@ -76,6 +76,9 @@
             },
             "development": {
               "browserTarget": "Fraud-Detection-API:build:development"
+            },
+            "options": {
+              "proxyConfig": "proxy.conf.json"
             }
           },
           "defaultConfiguration": "development"
